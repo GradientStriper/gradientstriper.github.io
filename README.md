@@ -18,7 +18,6 @@ Gradient Striper is a tool that is meant to work over different programs (Unity 
 
 Examples:
 
-
-
+![example_witch](https://raw.githubusercontent.com/GradientStriper/gradientstriper.github.io/refs/heads/main/Images/Example_Witch.jpg)
 
 ![gradient line](https://raw.githubusercontent.com/GradientStriper/gradientstriper.github.io/refs/heads/main/Images/Single_SiteWide_Red.png)
