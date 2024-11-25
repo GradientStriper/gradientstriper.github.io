@@ -1,8 +1,10 @@
 # gradientstriper.github.io
 
+![gradient line](https://raw.githubusercontent.com/GradientStriper/gradientstriper.github.io/refs/heads/main/Images/Single_SiteWide_Red.png)
+
 Gradient Striper is a tool that is meant to work over different programs (Unity and Godot versions in the works atm)
 
-![alt text](https://raw.githubusercontent.com/GradientStriper/gradientstriper.github.io/refs/heads/main/Images/8.png)
+![8_gradient_texture](https://raw.githubusercontent.com/GradientStriper/gradientstriper.github.io/refs/heads/main/Images/8.png)
 
 ------ Versions ----------------------
 
@@ -12,4 +14,11 @@ Gradient Striper is a tool that is meant to work over different programs (Unity 
 
 - Blender: Not started yet
 
---------------------------------------
+![gradient line](https://raw.githubusercontent.com/GradientStriper/gradientstriper.github.io/refs/heads/main/Images/Single_SiteWide_Red.png)
+
+Examples:
+
+
+
+
+![gradient line](https://raw.githubusercontent.com/GradientStriper/gradientstriper.github.io/refs/heads/main/Images/Single_SiteWide_Red.png)
